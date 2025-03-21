@@ -1,6 +1,6 @@
 <a href="https://github.com/PhilosTech/aura-chat">
-  <img alt="Next.js 14 and App Router-ready AI chatbot." src="app/(chat)/opengraph-image.png">
   <h1 align="center">Aura Chat</h1>
+  <img alt="Next.js 14 and App Router-ready AI chatbot." src="./public/images/screenshot.png">
 </a>
 
 <p align="center">
